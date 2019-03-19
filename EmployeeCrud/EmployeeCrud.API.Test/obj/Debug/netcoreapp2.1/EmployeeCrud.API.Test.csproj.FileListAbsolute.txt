@@ -1,0 +1,11 @@
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.API.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.API.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.API.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.API.Test\bin\Debug\netcoreapp2.1\EmployeeCrud.API.Test.deps.json
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.API.Test\bin\Debug\netcoreapp2.1\EmployeeCrud.API.Test.runtimeconfig.json
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.API.Test\bin\Debug\netcoreapp2.1\EmployeeCrud.API.Test.runtimeconfig.dev.json
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.API.Test\bin\Debug\netcoreapp2.1\EmployeeCrud.API.Test.dll
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.API.Test\obj\Debug\netcoreapp2.1\EmployeeCrud.API.Test.csprojAssemblyReference.cache
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.API.Test\obj\Debug\netcoreapp2.1\EmployeeCrud.API.Test.csproj.CoreCompileInputs.cache
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.API.Test\obj\Debug\netcoreapp2.1\EmployeeCrud.API.Test.AssemblyInfoInputs.cache
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.API.Test\obj\Debug\netcoreapp2.1\EmployeeCrud.API.Test.AssemblyInfo.cs

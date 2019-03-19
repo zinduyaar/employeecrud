@@ -1,0 +1,12 @@
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Data.EF\bin\Debug\netcoreapp2.1\EmployeeCrud.Data.EF.deps.json
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Data.EF\bin\Debug\netcoreapp2.1\EmployeeCrud.Data.EF.dll
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Data.EF\bin\Debug\netcoreapp2.1\EmployeeCrud.Data.EF.pdb
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Data.EF\bin\Debug\netcoreapp2.1\EmployeeCrud.Core.dll
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Data.EF\bin\Debug\netcoreapp2.1\EmployeeCrud.Core.pdb
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Data.EF\obj\Debug\netcoreapp2.1\EmployeeCrud.Data.EF.csprojAssemblyReference.cache
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Data.EF\obj\Debug\netcoreapp2.1\EmployeeCrud.Data.EF.csproj.CoreCompileInputs.cache
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Data.EF\obj\Debug\netcoreapp2.1\EmployeeCrud.Data.EF.AssemblyInfoInputs.cache
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Data.EF\obj\Debug\netcoreapp2.1\EmployeeCrud.Data.EF.AssemblyInfo.cs
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Data.EF\obj\Debug\netcoreapp2.1\EmployeeCrud.Data.EF.csproj.CopyComplete
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Data.EF\obj\Debug\netcoreapp2.1\EmployeeCrud.Data.EF.dll
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Data.EF\obj\Debug\netcoreapp2.1\EmployeeCrud.Data.EF.pdb

@@ -1,0 +1,9 @@
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Core\bin\Debug\netcoreapp2.1\EmployeeCrud.Core.deps.json
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Core\bin\Debug\netcoreapp2.1\EmployeeCrud.Core.dll
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Core\bin\Debug\netcoreapp2.1\EmployeeCrud.Core.pdb
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Core\obj\Debug\netcoreapp2.1\EmployeeCrud.Core.csproj.CoreCompileInputs.cache
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Core\obj\Debug\netcoreapp2.1\EmployeeCrud.Core.AssemblyInfoInputs.cache
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Core\obj\Debug\netcoreapp2.1\EmployeeCrud.Core.AssemblyInfo.cs
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Core\obj\Debug\netcoreapp2.1\EmployeeCrud.Core.dll
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Core\obj\Debug\netcoreapp2.1\EmployeeCrud.Core.pdb
+C:\Users\uf6818\source\repos\EmployeeCrud\EmployeeCrud.Core\obj\Debug\netcoreapp2.1\EmployeeCrud.Core.csprojAssemblyReference.cache

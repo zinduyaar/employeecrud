@@ -1,0 +1,11 @@
+.main-canvas {
+  height: calc(100vh - 50px);
+  padding: 0;
+  margin: 0;
+}
+.height-30{
+    height: 30%;
+}
+.height-70{
+    height: 70%;
+}

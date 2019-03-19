@@ -1,0 +1,27 @@
+<p>Employee list</p>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">First Name</th>
+      <th scope="col">Last Name</th>
+      <th scope="col">Age</th>
+      <th scope="col">Salary</th>
+      <th scope="col">Edit/Delete</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let employee of employeeList">
+      <td>{{employee.id}}</td>
+      <td>{{employee.firstName}}</td>
+      <td>{{employee.lastName}}</td>
+      <td>{{employee.age}}</td>
+      <td>{{employee.salary}}</td>
+      <td>
+        <i class="fa fa-edit" style="margin-right:25px; cursor: pointer;" (click)="onEditEmployee(employee)"></i>
+        <i class="fa fa-close icons"  style="cursor: pointer;" (click)="onDeleteEmployee(employee)"></i>
+      </td>
+    </tr>
+  </tbody>
+</table>
